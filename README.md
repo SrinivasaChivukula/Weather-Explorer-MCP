@@ -36,6 +36,54 @@ I've got a few ideas to take this further:
 
 ---
 
+## 🛠 Prerequisites & Dependencies
+To get this engine running on your machine, you'll need the following:
+
+### Software
+- **Python 3.10+**: The core language.
+- **Node.js**: Required to run the MCP Fetch server via `npx`.
+
+### Libraries (Python)
+You can install all requirements using:
+```bash
+pip install mcp colorama requests
+```
+*Wait, what are these?*
+- `mcp`: The official Python SDK for interacting with Model Context Protocol servers.
+- `colorama`: For all those flashy terminal colors.
+- `requests`: Used for the Direct Transmission fallback mode.
+
+---
+
+## 🚀 How to Run
+Ready to explore? Follow these steps:
+
+1. **Clone the Repo:**
+   ```bash
+   git clone https://github.com/SrinivasaChivukula/Weather-Explorer-MCP.git
+   cd Weather-Explorer-MCP
+   ```
+2. **Setup Dependencies:**
+   ```bash
+   pip install mcp colorama requests
+   ```
+3. **Ignition:**
+   ```bash
+   python main.py
+   ```
+   *Note: On your first run, it might take a second to initialize the MCP server via npx.*
+
+---
+
+## 📂 Project Structure
+I've revamped the file structure to keep things clean and professional:
+- `main.py`: The primary application entry point (formerly `weather_dashboard_step3.py`).
+- `archive/`: Contains earlier iterations of the dashboard logic.
+- `tests/`: Specialized scripts for verifying network stability and MCP connectivity.
+- `README.md`: You are here!
+
+---
+
 ## 👨‍💻 About Me
 **Srinivasa Chivukula**  
 I'm a **Computer Science major** with my head in the clouds—literally. I'm concentrating on **AIML, CyberSecurity, and Cloud Technologies**, and I love building tools that solve real problems with modern tech stacks.
