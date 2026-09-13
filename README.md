@@ -1,5 +1,13 @@
 # Weather & City Explorer 🌍
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-brightgreen?style=for-the-badge&logo=github)](https://srinivasachivukula.github.io/Weather-Explorer-MCP/)
+[![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![MCP](https://img.shields.io/badge/Protocol-Model%20Context%20Protocol-blueviolet?style=for-the-badge)](https://modelcontextprotocol.io)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+
+🌐 **Live Interactive MCP Weather & Intel Sandbox:** [https://srinivasachivukula.github.io/Weather-Explorer-MCP/](https://srinivasachivukula.github.io/Weather-Explorer-MCP/)
+
+
 Hey there! 👋 This is a project I've been working on to explore how we can bridge the gap between AI assistants and the live, breathing web. It's a Python-based intelligence tool that doesn't just rely on static training data—it actually goes out and "grabs" the world as it's happening.
 
 ## 🧐 So, what's this all about?
